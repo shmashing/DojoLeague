@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.list {
+    padding: 1em;
+    display: inline-block;
+    width: 30%;
+    height: 20em;
+    margin-left: -10em;
+    margin-top: 5em;
+    border-right: 1px solid black;
+}
+.register {
+    padding: 1em;
+    margin-left: 2em;
+    display: inline-block;
+    margin-top: 5em;
+    width: 60%;
+    height: 20em;
+    vertical-align: top;
+}
+.ninjas {
+    overflow: auto;
+    height: 15em;
+}
+.add_butt {
+    float: right;
+    margin-right: 6em;
+}
+.things {
+    width: 80%;
+}
+.link {
+    float: left;
+    display: block;
+}
+.rogues, .members {
+    display: inline-block;
+    margin-left: 4em;
+}
